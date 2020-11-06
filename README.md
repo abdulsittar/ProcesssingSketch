@@ -1,7 +1,6 @@
-# Temporal visual analysis of information spreading 
-Temporal information spreading visual analysis in multilingual settings over time period of 6 years.
+# Temporal visual analysis of information spreading - Processing Sketch
 
-This is a animation to show information spreading in multilingual temporal setting over time period of 6 year. For now, it supports pre-defined input format in CSV  file. 
+This is a animation to show information spreading in multilingual temporal setting over time period of 6 years. For now, it supports pre-defined input format in CSV file. 
 
 
 ## Supported Languages
